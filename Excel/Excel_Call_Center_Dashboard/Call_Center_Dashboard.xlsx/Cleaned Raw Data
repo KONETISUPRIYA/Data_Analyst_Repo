@@ -1,0 +1,21 @@
+Call_ID	Agent_Name	Cleaned_Agent_Name	Customer_Name	Call_Duration	Cleaned_Call_Duration	Status	Cleaned_Status	Date	Cleaned Date
+C001	Ravi	Ravi	Amit	12	12	resolved	Resolved	01-05-2026	01-05-2026
+C002	Priya	Priya	Sneha	-8	8	PENDING	Pending	01-05-2026	02-05-2026
+C003	Rahul	Rahul	Arjun	15	15	escalated	Escalated	02-05-2026	03-05-2026
+C004	Sneha	Sneha	Kavya	9	9	callback	Callback	May 2 2026	04-05-2026
+C005	Ravi	Ravi	Rohit	6	6	Dropped	Dropped	02-05-2026	05-05-2026
+C006	Unknown_Agent	Unknown_Agent	Deepak	13	13	resolved	Resolved	03-05-2026	06-05-2026
+C007	Rahul	Rahul	Meena	17	17	Pending	Pending	03-05-2026	07-05-2026
+C008	Sneha	Sneha	Varun	7	7	RESOLVED	Resolved	03-05-2026	08-05-2026
+C009	Ravi	Ravi	Pooja	-11	11	Escalated	Escalated	04-05-2026	09-05-2026
+C010	Priya	Priya	Nikhil	10	10	callback	Callback	04-05-2026	10-05-2026
+C011	Rahul	Rahul	Ramesh	14	14	resolved	Resolved	May 4 2026	11-05-2026
+C012	Sneha	Sneha	Asha	5	5	dropped	Dropped	05-05-2026	12-05-2026
+C013	Ravi	Ravi	Harish	20	20	Pending	Pending	05-05-2026	13-05-2026
+C014	Priya	Priya	Kiran	8	8	resolved	Resolved	05-05-2026	14-05-2026
+C015	Rahul	Rahul	Divya	16	16	escalated	Escalated	06-05-2026	15-05-2026
+C016	Sneha	Sneha	Surya	12	12	Callback	Callback	May 6 2026	16-05-2026
+C017	Ravi	Ravi	Teja	6	6	resolved	Resolved	06-05-2026	17-05-2026
+C018	Unknown_Agent	Unknown_Agent	Manasa	18	18	PENDING	Pending	07-05-2026	18-05-2026
+C019	Rahul	Rahul	Vinay	-10	10	dropped	Dropped	07-05-2026	19-05-2026
+C020	Sneha	Sneha	Bhavana	7	7	Resolved	Resolved	07-05-2026	20-05-2026
